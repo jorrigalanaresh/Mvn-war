@@ -19,7 +19,7 @@
 	<properties>
 		<pkg.code>456</pkg.code>
 		<pkg.title>256</pkg.title>
-		<pkg.version.string>0.0.1-SNAPSHOT</pkg.version.string>
+		<pkg.version.string>0.0.1-SNAPSHOT MY SNAPSHOT</pkg.version.string>
 		<pkg.version>0.0.1-SNAPSHOT</pkg.version>
 		<pkg.description><!-- Give some description about this package --></pkg.description>
 
