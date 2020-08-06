@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>mvn</groupId>
-	<artifactId>art</artifactId>
+	<artifactId>MY-ART</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<packaging>war</packaging>
